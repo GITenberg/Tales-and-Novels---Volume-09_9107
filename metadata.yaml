@@ -1,0 +1,40 @@
+_repo: Tales-and-Novels---Volume-09_9107
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Edgeworth, Maria
+    alias: Edgeworth, Eliza
+    birthdate: 1767
+    deathdate: 1849
+    gutenberg_agent_id: '630'
+    url: http://www.gutenberg.org/2009/agents/630
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Edgeworth
+description: "Harrington is an 1817 novel by British novelist Maria Edgeworth. The\
+  \ novel was written in response to a letter from a Jewish-American reader who complained\
+  \ about Edgeworth's stereotypically anti-semitic portrayals of Jews in Castle Rackrent\
+  \ (1800), Belinda (1801), The Absentee (1812), and her Moral Tales (1801) for children.\
+  \ The novel is an autobiography of a \"recovering anti-Semite\", whose youthful\
+  \ prejudices are undone by contact with various Jewish characters, particularly\
+  \ a young woman. It also makes parallels between the religious discrimination of\
+  \ the Jews and the Catholics in Ireland. Set between the Jewish Naturalization Act\
+  \ of 1753 and the Gordon Riots of 1780, the timeframe highlights these connections.\n\
+  \n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9107'
+  wikidata: Q16385930
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Harrington -- Thoughts on bores -- Ormond.
+title: Tales and Novels — Volume 09
+url: http://www.gutenberg.org/ebooks/9107
+wikipedia:
+- https://en.wikipedia.org/wiki/Harrington_(novel)
